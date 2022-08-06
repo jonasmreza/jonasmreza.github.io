@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jonasmreza" target="blank"><img src="https://img.shields.io/twitter/follow/jonasmreza?logo=twitter&style=for-the-badge" alt="jonasmreza" /></a> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **IT Support Enginner**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Data Enginner**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Data science , IT Support, Cybersecurity**
 
 - 📫 How to reach me **jonasmreza@gmail.com**
 
@@ -25,6 +25,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+- R studio
+- MongoDB
+- Spark
+- Python
+- Kafka
+</p>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jonasmreza&&theme=xcode)](https://github.com/jonasmreza)
 
