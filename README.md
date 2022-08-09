@@ -1,4 +1,4 @@
-[![MasterHead](src="http://www.cuc.udg.mx/sites/default/files/computacion-banner.jpg")](https://jonasmreza.github.io)
+![banner repo jonasmreza (1)](https://user-images.githubusercontent.com/7155050/183542604-2ce1ff00-49d1-4d99-a62e-e689e2b38c4b.png)
 <h1 align="center">Hi 👋, Jonas Montoya Reza</h1>
 <h3 align="center">Ingeniero en Computacion</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
