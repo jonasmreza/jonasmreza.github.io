@@ -8,12 +8,16 @@
 <p align="left"> <a href="https://twitter.com/jonasmreza" target="blank"><img src="https://img.shields.io/twitter/follow/jonasmreza?logo=twitter&style=for-the-badge" alt="jonasmreza" /></a> </p>
 
 - 🔭 I’m currently working on **IT Support Enginner**
+- 🔭 Actualmente trabajo como **IT Support Enginner**
 
 - 🌱 I’m currently learning **Data Enginner**
+- 🌱 Estudio **Data Enginner**
 
 - 💬 Ask me about **Data science , IT Support, Cybersecurity**
+- 💬 Puedes consultarme sobre **Ciencia de Datos , Soporte tecnico, Ciberseguridad**
 
 - 📫 How to reach me **jonasmreza@gmail.com**
+- 📫 Me puedes contactar en **jonasmreza@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
