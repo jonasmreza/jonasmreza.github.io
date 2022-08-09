@@ -11,7 +11,7 @@
 - 🔭 Actualmente trabajo como **IT Support Enginner**
 
 - 🌱 I’m currently learning **Data Enginner**
-- 🌱 Estudio **Data Enginner**
+- 🌱 Estudio **Ingeniero de Datos**
 
 - 💬 Ask me about **Data science , IT Support, Cybersecurity**
 - 💬 Puedes consultarme sobre **Ciencia de Datos , Soporte tecnico, Ciberseguridad**
