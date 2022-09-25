@@ -1,6 +1,6 @@
 ## CV Jonas Montoya Reza | Ingeniero en Computacion
 
-Actualmente laboro en Softtek, doy soporte remoto a todo el pais, egresado de la Universidad de Guadajalara Campus Puerto Vallarta, como Ingeniero en Computacion, me encuentro estudiando el Path de Data Engineer en una plataforma de la India y tambien estudio Ingles.
+Actualmente trabajo para una empresa internacional con sede en Monterrey Nuevo Leon, doy asistencia remota a todo el pais, egresado de la Universidad de Guadajalara Campus Puerto Vallarta, de la carrera Licenciado en Ingenieria en Computacion, me encuentro estudiando el Path de Data Engineer en una plataforma de la India y tambien estudio Ingles cuento con nivel intermedio (Level 3).
 
 
 Linkedin [editor on GitHub](https://www.linkedin.com/in/jonas-montoya-reza/) to maintain and preview the content for your website in Markdown files.
